@@ -1,0 +1,102 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+ 
+header.masthead {
+    position: relative;
+    background-color: #343a40;
+    background: url("assets/bg-masthead.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+.div
+{
+    width: 100%;
+    position: relative;
+}
+
+
+.img-fluid
+{
+    width: 100%;
+    height: 600px;
+  
+}
+
+.h1
+{
+    position: absolute;
+    margin-top: 50px;
+
+}
+
+.row
+{
+    width: 100%;
+    height: 320px;
+    margin-top: 0px;
+}
+
+
+.features-icons {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+  }
+  .features-icons .features-icons-item {
+    max-width: 20rem;
+  }
+  .features-icons .features-icons-item .features-icons-icon {
+    height: 7rem;
+  }
+  .features-icons .features-icons-item .features-icons-icon i {
+    font-size: 4.5rem;
+  }
+  
+
+
+
+.col-lg-4
+{
+  margin-top: 100px;
+}
+
+
+.col-lg-6
+{
+    background-size: cover;
+}
+
+.g-0
+{
+  height: 500px;
+}
+
+/**
+.img-fluid .rounded-circle .mb-3
+{
+    width: 120px;
+    height: 120px;
+}
+
+**/
+ .img-fluid .rounded-circle .mb-3
+{
+    width: 100px;
+    height: 100px;
+}
+.call-to-action {
+    position: relative;
+    background-color: #343a40;
+    background: url("assets/bg-masthead.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+  }
+
+  footer.footer {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
